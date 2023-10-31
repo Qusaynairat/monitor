@@ -27,7 +27,7 @@
 .section .txt1 {
   width: fit-content;
   margin: auto;
-  font-size: 36px;
+  font-size: 46px;
   font-weight: 600;
   color: hsl(210, 10%, 33%);
 }
@@ -220,3 +220,64 @@ padding-left: 100px;
 float: left;
 }
 /* end section 4 */
+/* section 5 */
+.section5{
+  overflow: auto;
+  margin: auto;
+  width: 100%;
+}
+.section5 .txt1 {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  font-size: 36px;
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+.section5 .txt2 {
+  font-weight: 600;
+  text-align: center;
+  width: 1340px;
+  color: hsl(201, 11%, 66%);
+  margin-top: 15px;
+  padding: 0px 340px;
+  margin-bottom: 45px;
+}
+.section5 .btn-logo {
+  width: 100%;
+  overflow: auto;
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: 50px;
+  padding-left: 36%;
+}
+.section5 .btn1 {
+  box-shadow: -5px 4px 27px -11px hsl(171, 66%, 44%);
+  width: 160px;
+  background-color: hsl(171, 66%, 44%);
+  color: white;
+  border: none;
+  padding: 5px;
+  margin: auto;
+  margin-bottom: 200px;
+  border-radius: 20px;
+  height: 45px;
+}
+.btn1:hover{
+  background-color: hsla(171, 66%, 44%, 0.858);
+}
+.section5 .btn2 {
+  box-shadow: -5px 4px 27px -11px hsl(233, 100%, 69%);
+  width: 160px;
+  background-color: hsl(233, 100%, 69%);
+  color: white;
+  border: none;
+  padding: 5px;
+  margin-left: 15px;
+  border-radius: 20px;
+  height: 45px;
+}
+.btn2:hover{
+  background-color: hsla(233, 100%, 69%, 0.858);
+}
+/* end section 5 */
