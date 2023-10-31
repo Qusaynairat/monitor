@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bai Jamjuree", sans-serif;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+/* section */
+.section {
+  text-align: center;
+  overflow: auto;
+  width: 100%;
+  background-image: url(../img/bg-header-desktop.png);
+  background-position: center;
+  background-size: cover;
+}
+.section .logo img {
+  width: 70px;
+  margin-bottom: 40px;
+  margin-top: 80px;
+}
+
+.section .txt1 {
+  width: fit-content;
+  margin: auto;
+  font-size: 36px;
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+.section .txt2 {
+  font-weight: 600;
+  width: 558.1;
+  color: hsl(201, 11%, 66%);
+  margin-top: 15px;
+  padding: 0px 470px;
+  margin-bottom: 45px;
+}
+
+.section .btn1 {
+  width: 160px;
+  background-color: hsl(171, 66%, 44%);
+  color: white;
+  border: none;
+  padding: 5px;
+  margin: auto;
+  margin-bottom: 200px;
+  border-radius: 20px;
+  height: 45px;
+}
+.section .btn2 {
+  width: 160px;
+  background-color: hsl(233, 100%, 69%);
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 20px;
+  height: 45px;
+}
+/* end section */
+/* section2 */
+.section2 {
+  width: 100%;
+  overflow: auto;
+}
+
+.section2 .txt1 {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  font-size: 36px;
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+.section2 .txt2 {
+  font-weight: 600;
+  text-align: center;
+  width: 558.1;
+  color: hsl(201, 11%, 66%);
+  margin-top: 15px;
+  padding: 0px 470px;
+  margin-bottom: 45px;
+}
+.section2 .monitor-img {
+  margin-top: 50px;
+  float: left;
+  margin-left: -220px;
+}
+.section2 .desc {
+  width: fit-content;
+  margin-left: 700px;
+  margin-top: 200px;
+}
+.desc h3 {
+  text-align: left;
+  color: hsl(210, 10%, 33%);
+  font-weight: 600;
+}
+.desc p {
+  width: 350px;
+  font-weight: 600;
+  text-align: left;
+  color: hsl(201, 11%, 66%);
+}
+.desc .txtb {
+  margin-top: 80px;
+}
+.desc .txtc {
+  margin-top: 80px;
+}
+/*  end section2 */
