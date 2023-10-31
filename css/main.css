@@ -51,6 +51,9 @@
   border-radius: 20px;
   height: 45px;
 }
+.btn1:hover{
+  background-color: hsla(171, 66%, 44%, 0.858);
+}
 .section .btn2 {
   width: 160px;
   background-color: hsl(233, 100%, 69%);
@@ -59,6 +62,9 @@
   padding: 5px;
   border-radius: 20px;
   height: 45px;
+}
+.btn2:hover{
+  background-color: hsla(233, 100%, 69%, 0.858);
 }
 /* end section */
 /* section2 */
@@ -112,3 +118,103 @@
   margin-top: 80px;
 }
 /*  end section2 */
+/* section3  */
+.section3 {
+  margin-top: 150px;
+  width: 100%;
+  overflow: auto;
+}
+.section3 .txt1 {
+  width: fit-content;
+  margin: auto;
+  font-size: 36px;
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+.section3 .txt2 {
+  font-weight: 600;
+  text-align: center;
+  width: 1600px;
+  color: hsl(201, 11%, 66%);
+  margin-top: 20px;
+  padding: 0px 470px;
+  margin-bottom: 45px;
+}
+.section3 .device {
+  text-align: center;
+  margin-top: 90px;
+}
+/* end section 3 */
+/* section4 */
+.section4 {
+  margin-top: 150px;
+  width: 100%;
+  overflow: auto;
+}
+.section4 .txt1 {
+  width: fit-content;
+  margin: auto;
+  font-size: 36px;
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+.section4 .txt2 {
+  font-weight: 600;
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  color: hsl(201, 11%, 66%);
+  margin-top: 20px;
+  padding: 0px 470px;
+  margin-bottom: 45px;
+}
+.section4 .conta1{
+  overflow: auto;
+  width: 100%;
+}
+.conta1 .div1{
+  text-align: center;
+  width: 33.33%;
+  float: left;
+  margin-bottom: 80px;
+}
+.conta1 h3{
+  color: hsl(210, 10%, 33%);
+  margin-top: 30px;
+}
+.conta1 p{
+  margin:auto ;
+  width: 370px;
+  color: hsl(201, 11%, 66%);
+  margin-top: 15px;
+}
+.conta1 .div2{
+  text-align: center;
+  width: 33.33%;
+  float: left;
+  margin-bottom: 80px;
+}
+.conta1 .div2 h3{
+  margin-top: 38px;
+}
+.conta1 .div3{
+  text-align: center;
+  width: 33.33%;
+  float: left;
+  margin-bottom: 80px;
+}
+.conta1 .div3 h3{
+  margin-top: 38px;
+}
+.cont2{
+  width: 100%;
+  overflow: auto;
+}
+.cont2 .diva{
+width: 20%;
+margin: auto;
+padding: 80px;
+padding-left: 100px;
+float: left;
+}
+/* end section 4 */
