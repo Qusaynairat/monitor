@@ -322,11 +322,10 @@ color:hsl(204, 6%, 54%);
  width: 250px;
  margin-left: 250px;
  margin-top:55px ;
+ color: black;
 }
  .fa-brands{
   font-size: 30px;
-  
   padding-left: 8px;
-  
-
 }
+/* end section 6 */
